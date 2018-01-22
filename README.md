@@ -23,7 +23,11 @@ Esta aplicación consiste en la gestión general de un equipo de fútbol en una 
    -	Administrador: Crear/ Eliminar ligas o torneos y administrarlas. 
    -	Presidente: Crear/ Eliminar un club.
   -LIGA / TORNEO: Donde se dan los encuentros entre los distintos clubs que participan en ellos (Podrán escribirse un nº máximo de clubs).
+  
   -CLASIFICACION: Listado ordenado de los clubs según puntuación.
+  
   -EQUIPO: Formado por un nombre único, palmares y jugadores inscritos.
+  
   -JUGADOR: contendrá todos sus datos (Nombre, Edad, Altura, Peso, etc.)
+  
   -PARTIDO: lugar de encuentro, horario del encuentro, clubs enfrentados, resultado, su liga o torneo. 
