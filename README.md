@@ -17,6 +17,7 @@ Esta aplicación consiste en la gestión general de un equipo de fútbol en una 
   -	Existirá un usuario administrador que se encargara de gestionar las ligas o torneos (crear ligas o torneos, modificar detalles de un club o jugador, cambiar horario de encuentro).
 
 **Entidades Principales:**
+
   -USUARIO: existen 3 tipos de usuarios:
    -	Jugador: darse de alta / baja en un club
    -	Administrador: Crear/ Eliminar ligas o torneos y administrarlas. 
