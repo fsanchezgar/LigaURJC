@@ -17,8 +17,11 @@ Esta aplicación consiste en la gestión general de un equipo de fútbol en una 
   -	Existirá un usuario administrador que se encargara de gestionar las ligas o torneos (crear ligas o torneos, modificar detalles de un club o jugador, cambiar horario de encuentro).
   
   **Servicio Interno:**
+  
     - Notificación de encuentros aplazados
+    
     - Envío de clasificaciones a los distintos equipos
+    
     - Actualizar la clasificación
 
 # Entidades Principales:
