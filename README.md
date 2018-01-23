@@ -18,7 +18,7 @@ Esta aplicación consiste en la gestión general de un equipo de fútbol en una 
   
   **Servicio Interno:**
   
-    - Notificación de encuentros aplazados
+    - Notificación de encuentros aplazados y sanciones
     
     - Envío de clasificaciones a los distintos equipos
     
