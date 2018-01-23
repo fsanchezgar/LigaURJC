@@ -15,6 +15,11 @@ Esta aplicación consiste en la gestión general de un equipo de fútbol en una 
   -	Cada jugador podrá darse de alta/baja en un club.
   -	Se creará una lista de sanciones donde aparecen sanciones a un club y sanciones de jugadores.
   -	Existirá un usuario administrador que se encargara de gestionar las ligas o torneos (crear ligas o torneos, modificar detalles de un club o jugador, cambiar horario de encuentro).
+  
+  **Servicio Interno:**
+    - Notificación de encuentros aplazados
+    - Envío de clasificaciones a los distintos equipos
+    - Actualizar la clasificación
 
 # Entidades Principales:
 
@@ -22,6 +27,7 @@ Esta aplicación consiste en la gestión general de un equipo de fútbol en una 
    -	Jugador: darse de alta / baja en un club
    -	Administrador: Crear/ Eliminar ligas o torneos y administrarlas. 
    -	Presidente: Crear/ Eliminar un club.
+   
   -LIGA / TORNEO: Donde se dan los encuentros entre los distintos clubs que participan en ellos (Podrán escribirse un nº máximo de clubs).
   
   -CLASIFICACION: Listado ordenado de los clubs según puntuación.
