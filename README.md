@@ -22,8 +22,6 @@ Esta aplicación consiste en la gestión general de un equipo de fútbol en una 
     
     - Envío de clasificaciones a los distintos equipos
     
-    - Actualizar la clasificación
-
 # Entidades Principales:
 
   -USUARIO: existen 3 tipos de usuarios:
