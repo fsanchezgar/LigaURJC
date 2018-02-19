@@ -1,6 +1,7 @@
 # Premier URJC
 ## Miembros del equipo
 Fernando Sanchez Garcia
+
 Ruben Beltran Sanchez
 ## Descripción temática de la web:
 Esta aplicación consiste en una base de datos donde se pueden hacer diferentes consultas de fútbol sala. De igual manera, se pueden inscribir nuevos equipos y jugadores en una determinada liga si eres el entrenador de un equipo. Para ello se ha dividido la aplicación en dos partes:
