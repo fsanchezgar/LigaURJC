@@ -4,7 +4,7 @@ Fernando Sanchez Garcia
 
 Ruben Beltran Sanchez
 ## Descripción temática de la web:
-Esta aplicación consiste en una base de datos donde se pueden hacer diferentes consultas de fútbol sala. De igual manera, se pueden inscribir nuevos equipos y jugadores en una determinada liga si eres el entrenador de un equipo. Para ello se ha dividido la aplicación en dos partes:
+Esta aplicación consiste en una base de datos donde se pueden hacer diferentes consultas de fútbol sala. De igual manera, se pueden inscribir nuevos equipos y jugadores en una determinada liga si eres el entrenador de un equipo. Para ello se ha dividido la aplicación en tres partes:
 
  **Parte Publica:** únicamente se pueden realizar consultas a la base de datos. Se pueden filtrar los resultados de las consultas por:
   -	Nombre del jugador: se mostrarán únicamente los datos de ese jugador.
